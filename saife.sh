@@ -19,3 +19,5 @@ echo "$2 username doesn't exist"
 echo $2 >> ulist.txt
 echo $cat
 fi
+eof
+
